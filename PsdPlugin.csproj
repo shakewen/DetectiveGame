@@ -77,8 +77,8 @@
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\ImageResources\AlphaChannelNames.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\Layers\LayerInfo\LayerUnicodeName.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\LoadContext.cs" />
-    <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\Compression\EndianReverser.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\ImageResource.cs" />
+    <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\Compression\EndianReverser.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\PsdBinaryReader.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\ImageResources\RawImageResource.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.psdimporter@8.0.3\Editor\PSDPlugin\PsdFile\Compression\RleImage.cs" />
