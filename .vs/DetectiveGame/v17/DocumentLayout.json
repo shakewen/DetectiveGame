@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\DetectiveGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518D06E5-5007-34E7-8296-8EAFE1A21111}|OEBIF.csproj|e:\\unityprojects\\detectivegame\\assets\\outlineeffect\\outlineeffect\\outlineeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D06E5-5007-34E7-8296-8EAFE1A21111}|OEBIF.csproj|solutionrelative:assets\\outlineeffect\\outlineeffect\\outlineeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\DetectiveGame\\Temp\\Compiled-Sprites-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Sprites-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\DetectiveGame\\Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\DetectiveGame\\Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutlineEffect.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\OutlineEffect\\OutlineEffect\\OutlineEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\OutlineEffect\\OutlineEffect\\OutlineEffect.cs",
+              "ToolTip": "E:\\UnityProjects\\DetectiveGame\\Assets\\OutlineEffect\\OutlineEffect\\OutlineEffect.cs",
+              "RelativeToolTip": "Assets\\OutlineEffect\\OutlineEffect\\OutlineEffect.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:56:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compiled-Sprites-Default.shader",
+              "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Temp\\Compiled-Sprites-Default.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Sprites-Default.shader",
+              "ToolTip": "E:\\UnityProjects\\DetectiveGame\\Temp\\Compiled-Sprites-Default.shader",
+              "RelativeToolTip": "Temp\\Compiled-Sprites-Default.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-07-01T09:17:10.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpriteOutline.shader",
+              "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader",
+              "RelativeDocumentMoniker": "Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader",
+              "ToolTip": "E:\\UnityProjects\\DetectiveGame\\Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader",
+              "RelativeToolTip": "Assets\\SpriteOutline\\Shaders\\SpriteOutline.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-07-01T09:07:11.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectionOutlineController.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs",
+              "RelativeDocumentMoniker": "Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs",
+              "ToolTip": "E:\\UnityProjects\\DetectiveGame\\Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs",
+              "RelativeToolTip": "Assets\\FreeSelectionOutline\\Scripts\\SelectionOutlineController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:48:24.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
