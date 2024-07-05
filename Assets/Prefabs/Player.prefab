@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 7070802750818746646}
   - component: {fileID: 3555670288754472348}
   - component: {fileID: 1519146690662810840}
+  - component: {fileID: 201674936128164152}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1509049828, guid: e69e5e52994e76b4b92736a8423d0bb3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -127,7 +128,7 @@ MonoBehaviour:
   isInteract: 0
   isTab: 0
   canmove: 1
-  speed: 3
+  speed: 5
   faceRight: 1
 --- !u!50 &3555670288754472348
 Rigidbody2D:
@@ -191,3 +192,21 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1.7, y: 3.55}
   m_Direction: 0
+--- !u!114 &201674936128164152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3046384559334809811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba300cf9bede214192183d8573ae463, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemController: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  outlineOffset: 4
+  currentSpriteRenderer: {fileID: 0}
+  CurrentInteractSR: {fileID: 0}
+  fadeSpeed: 2
