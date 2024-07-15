@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\UnityProjects\\DetectiveGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|e:\\unityprojects\\detectivegame\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|e:\\unityprojects\\detectivegame\\assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|E:\\UnityProjects\\DetectiveGame\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|E:\\UnityProjects\\DetectiveGame\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|E:\\UnityProjects\\DetectiveGame\\assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC090E2-5B13-D30E-5024-D1CF25A5A009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAuwAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:01:22.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T16:01:22.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InputManager.cs",
               "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\Scripts\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
@@ -55,25 +54,24 @@
               "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T07:08:46.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T07:08:46.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ItemController.cs",
               "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\Scripts\\ItemController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemController.cs",
               "ToolTip": "E:\\UnityProjects\\DetectiveGame\\Assets\\Scripts\\ItemController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemController.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAuwKUAAAAAAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAA0wGUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T07:08:42.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sprite-Outline.shader",
               "DocumentMoniker": "E:\\UnityProjects\\DetectiveGame\\Assets\\Picture\\Map\\Sprite-Outline.shader",
               "RelativeDocumentMoniker": "Assets\\Picture\\Map\\Sprite-Outline.shader",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Assets\\Picture\\Map\\Sprite-Outline.shader",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAABgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-07-02T06:18:24.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T06:18:24.2Z"
             }
           ]
         }
